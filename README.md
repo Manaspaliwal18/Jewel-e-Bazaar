@@ -37,7 +37,9 @@ This project aims to collect feedback from jewelers and showcase a premium, reli
 
 ### Clone the repository
 ```bash
-
+📢 Feedback & Contribution
+If you are a jeweler testing this platform, please share your feedback so we can improve the product!
+For developers: PRs and suggestions are welcome.
 git clone https://github.com/Manaspaliwal18/Jewel-e-Bazaar.git
 cd Jewel-e-Bazaar
 
